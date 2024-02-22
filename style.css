@@ -1,0 +1,27 @@
+header{
+    text-align: center;
+    background: url(../assets/city-skylines-header.jpg);
+    background-size: cover;
+    color: white;
+}
+ul{
+    padding:10px 10px 10px 10px;
+    background-color:rgba(0,0,0,0.5);
+}
+li{
+    display: inline;
+    padding: 0px 10px 0px 10px;
+}
+a{
+    color:white;
+}
+body {
+  background-color:white;
+}
+h1{
+    font-size:70px;
+    color:gold;
+}
+p {
+    font-size:24px;
+}
